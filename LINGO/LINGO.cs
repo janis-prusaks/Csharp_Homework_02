@@ -7,7 +7,6 @@ namespace LINGO
         static void Main (string[] args)
         {
             //lai spēlētājam nav tieša piekļuve, atminamo vārdu rakstu citā klasē.
-            //kāpēc 5 burti un kāpēc ne spec simboli?
             string vards = Start.atminamaisVards().ToUpper(); 
             if (vards.Length == 5)
             {
