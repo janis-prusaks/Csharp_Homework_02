@@ -10,7 +10,7 @@ namespace LINGO
 
         public static string atminamaisVards()
         {
-            //šeit ieraksta atminamo vārdu, ja būs vairāk vai mazāk par 5 burtiem, pamatprogr nedarbosies.
+            //šeit ieraksta atminamo vārdu.
             return "ziemassvētki";
         }
 
